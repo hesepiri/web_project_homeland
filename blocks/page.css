@@ -1,5 +1,8 @@
+body {
+  background-color: #2a2c2f;
+}
+
 .page {
-  display: block-inline;
   font-family: "Inter-Regular", sans-serif;
   color: #ffffff;
   background-color: #2a2c2f;
