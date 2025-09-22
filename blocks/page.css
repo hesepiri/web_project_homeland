@@ -1,0 +1,10 @@
+.page {
+  display: block-inline;
+  font-family: "Inter-Regular", sans-serif;
+  color: #ffffff;
+  background-color: #2a2c2f;
+  width: 100%;
+  margin: auto;
+  font-size: 16px;
+  line-height: 20px;
+}
